@@ -1,0 +1,8 @@
+
+
+primarybg - 17181C
+secondary - 22232A
+teal-primary - 38B2AC
+blog-blue - 6C85ED
+linear - 4FC1A2 , D9D1AC , F68D27 
+

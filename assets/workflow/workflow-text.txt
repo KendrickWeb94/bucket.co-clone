@@ -1,0 +1,109 @@
+Product
+Approach
+Pricing
+Changelog
+Company
+Sign in
+Create account
+Our workflow
+STARS framework
+Stop dashboarding, start shipping
+features customers love
+Empower you and your team to create impact by combining the consistency
+of the STARS framework with intuitive automation to build SaaS feature sets
+that delight your customers.
+Get started for free
+See how it works
+Automated feature evaluation
+Plan
+Evaluate
+Iterate
+How Bucket empowers your team
+to ship impactful features
+Plan your feature release
+Define a feature tracking plan and hand it over to
+engineering with our Linear integration. 
+
+Set goals or use our goal templates.
+
+Once the feature is live, Bucket detects the tracking
+data and moves to the next stage.
+Evaluate performance in Slack
+Track your goal progress and get real-time
+qualitative feedback directly to Slack.
+Say “goodbye” to manually searching through any
+number of feature dashboards to find the right one.
+The insights come to you.
+Iterate and improve
+Analyze the release performance when the
+evaluation period ends or get notifications when
+goals are reached.
+With the insights you need, you’ll know if and what
+to iterate.
+Try Bucket for free
+Explore the product
+“
+Getting the relevant feature data to chase you, and
+not the other way around, is changing how we
+evaluate features, effortlessly. This is where Bucket
+gets it right.
+Paul Dariye, Engineering Manager
+”
+The STARS framework
+Feature metrics you can benchmark
+The STARS framework gives you a common baseline for measuring feature engagement and satisfaction, letting you benchmark
+performance. With consistent insights made easily accessible, STARS helps you create better products.
+Try STARS for yourself
+S
+Segment
+Create custom segments that include the relevant
+audiences for each product feature.
+T
+Tried
+After a feature launch, discover how many customers
+are aware of and have interacted with it.
+A
+Adopted
+See the feature adoption rate, letting you understand
+how many companies are using a feature frequently.
+R
+Retained
+In the weeks and months after launch, uncover how
+many companies are still consistently using a feature.
+S
+Satisfied
+Receive qualitative and quantitative feedback to
+understand which companies are happily using a
+feature.
+Discover STARS
+The STARS framework is open source and is part of the
+foundation that Bucket is built upon. Dive deeper here:
+starsframework.org
+Track your latest release in
+minutes 
+Improve your productivity and delight
+customers quickly with Bucket’s Segment
+integration and our own SDK.
+Get started for free
+Our approach
+Product
+Resources
+Company
+Automated evaluations
+Feature evaluation
+Blog
+About us
+Follow on LinkedIn
+STARS Framework
+Pricing
+Documentation
+Careers
+Follow on X
+starsframework.org ↗
+Changelog
+Contact us
+Security
+© 2024 Bucket. All rights reserved.
+Privacy policy
+GDPR
+Terms of service

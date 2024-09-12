@@ -1,0 +1,36 @@
+Documentation
+v1.1
+Guides
+API Reference
+Search
+CTRL-K
+Quick start
+Welcome
+Suggest Edits
+Welcome
+Getting started
+Tracking with Segment
+Welcome to the Bucket developer documentation.
+Product Handbook
+To get started with Bucket, head to the Getting started guide.
+Data Export
+For direct access to integration methods or other help, check out the links below:
+Releases
+Segment Integration
+The Feature Report
+JavaScript SDK
+Track new feature
+HTTP Tracking API
+Associating Users and Companies
+Get help
+Segments
+Understanding the STARS framework
+Updated 4 months ago
+Live Satisfaction
+Customizable Table Columns
+What’s Next
+Powered by 
+Getting started
+Did this page help you?
+Yes
+No

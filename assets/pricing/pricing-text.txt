@@ -1,0 +1,168 @@
+Product
+Approach
+Pricing
+Changelog
+Company
+Sign in
+Create account
+Get started for free. Scale with your business.
+Increase feature adoption and customer satisfaction with
+the right Bucket plan.
+Monthly
+Annual
+Save 25% on annual plan
+Free
+Pro
+Business
+Enterprise
+Great for individuals or a
+single team
+Best option for organizations
+with multiple product teams.
+Best option for organizations
+with higher end-user volume.
+For organizations with
+custom needs.
+$0
+/mo
+$188
+/mo
+$374
+/mo
+Custom
+Create account
+Start free trial
+Start free trial
+Book a demo
+Unlimited team
+members
+Unlimited team
+members
+Unlimited team
+members
+1 release
+Up to 25K MTUs
+Up to 50K MTUs
+Integrations
+Data export
+Pricing details
+Free
+Pro
+Business
+Enterprise
+Price/mo
+$0
+/mo
+$250
+/mo
+$499
+/mo
+Custom
+Prince/mo (annual billing)
+$0
+/mo
+$188
+/mo
+$374
+/mo
+Custom
+Product
+STARS insights
+Live Satisfaction surveys
+Releases and Goals
+NEW
+Advanced segmentation
+Slack reporting
+Usage
+Monthly Tracked Users (MTU)
+-
+Up to 25K
+Up to 50K
+Custom
+Team members
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Releases (concurrent)
+1
+Unlimited
+Unlimited
+Unlimited
+Live Satisfaction surveys (concurrent)
+1
+Unlimited
+Unlimited
+Unlimited
+Live Satisfaction feedback
+10
+/mo
+Unlimited
+Unlimited
+Unlimited
+Live Satisfaction branding
+Yes
+Customizable
+Custom
+Custom
+Features
+3
+Unlimited
+Unlimited
+Unlimited
+Data
+Manual export
+-
+-
+Automatic export to S3
+NEW
+-
+-
+Retention
+3 months
+5 years
+5 years
+5 years
+Privacy
+GDPR compliant
+EU-only storage option
+Support
+Email support
+Email support response time
+<5 week days
+<5 week days
+<1 week days
+<12 hours
+Private Slack Channel
+-
+-
+-
+90 days
+Onboarding call
+-
+-
+FAQs
+How do you define and count MTU?
+How do you handle MTU overages?
+Our approach
+Product
+Resources
+Company
+Automated evaluations
+Feature evaluation
+Blog
+About us
+Follow on LinkedIn
+STARS Framework
+Pricing
+Documentation
+Careers
+Follow on X
+starsframework.org ↗
+Changelog
+Contact us
+Security
+© 2024 Bucket. All rights reserved.
+Privacy policy
+GDPR
+Terms of service

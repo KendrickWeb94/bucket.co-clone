@@ -1,0 +1,114 @@
+Product
+Approach
+Pricing
+Changelog
+Company
+Sign in
+Create account
+How it works
+Powerful workflows
+Feature insights
+Faster feature-market fit
+Data isn't the issue, making it actionable is. Get the insights you need to
+address feature issues and increase adoption and satisfaction.
+Get started for free
+See how it works
+Feature adoption insights,
+right out of the box
+The STARS funnel gives you consistent, turnkey
+engagement metrics from a single event for any
+feature.
+Simply send it to Bucket and get answers to
+engagement questions with STARS’ repeatable
+baseline insights.
+Qualitative feedback 
+at
+the right time
+Live Satisfaction are no-code satisfaction surveys
+targeting the right customers at the right time to
+enrich your quantitative data and help you
+understand if they’re really satisfied.
+“
+With Bucket’s feature evaluation, everyone on the
+product team optimizes for customer impact,
+consistently.
+Niels Tindbæk, Head of Product
+”
+Track feature releases from idea
+through iteration
+Monitor progression on engagement and satisfaction goals for each feature
+release in real time with Releases. Releases reports directly to Slack so the
+data is accessible and actionable for the entire team.
+Set feature goals
+Outline expected results and performance expectations with Goals. Not
+sure what goal to set? Start with one our templates and keep it simple.
+Simple goal presets for new releases
+Stay in the loop on engagement
+Define goals on any feature metric
+Evaluate impact without leaving
+Slack
+Make your release evaluation processes
+smoother with automated goal tracking and
+feature reporting directly in 
+ Slack.
+Standardized reports, every time
+Encourages decision making
+Reporting that chases your team
+Insights that drive adoption
+Work with features, not raw events
+Raw event counts don't tell the full story, plus they’re a pain to work with. Create
+feature objects on Bucket based on usage patterns and grouped events.
+
+Answer feature usage questions
+Have a feature usage question? Get the answer with our flexible usage analytics.
+See how different customers, like those in Retained, are using each feature.
+Behavioral segmentation
+with feature filters
+Create segments based on STARS feature
+usage. Who are your power users who have
+adopted most key features and who's only
+using a small part of your product?
+Export your data for
+custom analysis
+Automatically export every company’s
+complete feature usage into your data
+warehouse. Combine Bucket data with your
+internal business metrics to tie features to
+business outcomes.
+Audit long-term feature
+performance
+Assess and compare multiple key features
+across diverse dimensions and timelines with
+the Audit Matrix.
+Get long-term feature performance insights
+that make retrospectives more powerful and
+let roadmaps focus on the features
+customers crave.
+Track your latest release in
+minutes 
+Improve your productivity and delight
+customers quickly with Bucket’s Segment
+integration and our own SDK.
+Get started for free
+Our approach
+Product
+Resources
+Company
+Automated evaluations
+Feature evaluation
+Blog
+About us
+Follow on LinkedIn
+STARS Framework
+Pricing
+Documentation
+Careers
+Follow on X
+starsframework.org ↗
+Changelog
+Contact us
+Security
+© 2024 Bucket. All rights reserved.
+Privacy policy
+GDPR
+Terms of service

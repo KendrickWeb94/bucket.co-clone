@@ -1,0 +1,113 @@
+Announcement
+Article
+Article
+March 7, 2024
+·
+7
+min read
+·
+by
+Rasmus Makwarth
+How to actually help product teams ship better features
+We’ve all read the theoretical articles about using “insights” to “evaluate” and build better
+products. Now, there’s nothing wrong with these but they’re missing the most important part:
+how to actually do it in practice and in a repeatable manner that doesn’t take up your whole
+week.
+Announcement
+January 15, 2024
+·
+1
+min read
+·
+by
+Rasmus Makwarth
+Welcoming James Eisner to Bucket
+I’m thrilled to welcome James Eisner to Bucket as a Growth Marketer!
+Article
+June 29, 2023
+·
+3
+min read
+·
+by
+Jack Rivers
+What makes a user stick with a new feature?
+Every feature introduced should delight the end user, or even become indispensable to their
+work. However, achieving this 'stickiness' is easier said than done. This article looks at the
+complexities of feature retention and explores strategies that product teams can employ to
+ensure users embrace new features.
+Article
+June 22, 2023
+·
+3
+min read
+·
+by
+Jack Rivers
+Features aren’t free - the hidden costs of adding cool stuff
+According to Marty Cagan, at least half of all features in the average software roadmap are
+never going to work for customers. So much investment goes into product development without
+a clear idea of what the return is. Bucket was formed to solve the problem of hidden feature
+costs and make your roadmaps work.
+Announcement
+June 7, 2023
+·
+2
+min read
+·
+by
+Rasmus Makwarth
+Bucket is launching publicly with fresh Seed investment
+What a ride the last 1.5 years have been! Thanks to all early adopters for having shown interest
+in us and for helping create a better way to ship features that matter. With a fresh Seed round
+from Project A, including participation from existing investor Creandum, we have raised $5.7m in
+total and are launching publicly today!
+Announcement
+May 25, 2023
+·
+by
+Rasmus Makwarth
+Welcome Alex
+I’m stoked to welcome Alex to Bucket as Principal Backend Engineer!
+Announcement
+May 11, 2023
+·
+1
+min read
+·
+by
+Rasmus Makwarth
+Welcome Matúš Vacula
+I’m delighted to welcome Matúš Vacula to Bucket as Principal Backend Engineer!
+Announcement
+May 4, 2023
+·
+1
+min read
+·
+by
+Ron Cohen
+Welcome Erik Hughes
+I’m thrilled to announce that Erik Hughes has joined Bucket as a Full Stack engineer!
+Announcement
+November 15, 2022
+·
+1
+min read
+·
+by
+Rasmus Makwarth
+Welcome Alex Reid
+I’m thrilled to welcome Alex Reid to Bucket.
+June 17, 2022
+·
+4
+min read
+·
+by
+Rasmus Makwarth
+Putting "review and iterate" back in agile development
+In the SaaS industry, we’ve largely adopted agile development as our preferred methodology for
+releasing software. Scoping down and time-boxing features ensures that product teams release
+often and don’t waste months on a grand feature that ultimately doesn’t work.
+Load more

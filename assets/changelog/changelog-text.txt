@@ -1,0 +1,147 @@
+Product
+Approach
+Pricing
+Changelog
+Company
+Sign in
+Create account
+Changelog
+Changelog
+February 27, 2024
+·
+3
+min read
+·
+by
+Rasmus Makwarth
+Introducing Releases: Tracking feature releases from idea
+through iteration
+We’ve released our most impactful feature yet: Releases. Releases lets you monitor feature
+engagement and satisfaction goal progression for each release in real-time from ideation to
+iteration.
+Changelog
+February 20, 2024
+·
+2
+min read
+·
+by
+Rasmus Makwarth
+Grouping features with hierarchies
+We’re introducing feature hierarchies to make managing features in Bucket more intuitive! You
+can create parent features that encompass all sub-features by simply dragging and dropping.
+Changelog
+February 8, 2024
+·
+2
+min read
+·
+by
+Rasmus Makwarth
+Track multiple events in a feature
+Previously, each feature on Bucket was tied to a single event, limiting its adaptability. We’ve
+introduced a significant change that lets you associate multiple events with a single feature.
+Changelog
+January 23, 2024
+·
+2
+min read
+·
+by
+Rasmus Makwarth
+Bucket data is now hosted in the EU
+We’re excited to announce that we have migrated all our servers to locations within the
+European Union (EU), taking our commitment to privacy and security even further.
+Changelog
+January 17, 2024
+·
+3
+min read
+·
+by
+Rasmus Makwarth
+Adding frequency-based strategy capabilities to the STARS
+configuration
+We’ve just made the STARS configuration more customizable by adding frequency-based
+strategy capabilities. This lets you factor in the frequency of interactions for the Adopted
+criteria.
+Changelog
+January 10, 2024
+·
+3
+min read
+·
+by
+Rasmus Makwarth
+Feature and attribute columns in segments
+Segments allow you to group companies by login activity and custom attributes. This is useful
+for making a segment of monthly active companies or paying customers, for example. However,
+when browsing a segment, it isn’t possible to add columns that also show feature engagement
+or satisfaction. Until now!
+Changelog
+January 4, 2024
+·
+2
+min read
+·
+by
+Rasmus Makwarth
+Surfacing churned companies better
+Bucket is built on the STARS framework and gives you a STARS funnel out of the box, for any
+feature. Provided with a single event, the STARS funnel shows you how far your customers have
+reached in the “feature success funnel” for a feature.
+Changelog
+November 30, 2023
+·
+4
+min read
+·
+by
+Felix Glahn
+Automatic data export for custom analysis
+With the automatic data export to S3 you can now seamlessly enrich your data with Bucket’s
+data to unlock insights and enable collaboration across teams.
+Changelog
+November 15, 2023
+·
+1
+min read
+·
+by
+Felix Glahn
+Easily track response rates for Live Satisfaction
+With the new statistics in the Feedback tab you can get a quick visual overview over the
+performance of your feedback collection over the past 7 days.
+Changelog
+November 9, 2023
+·
+2
+min read
+·
+by
+Felix Glahn
+Configure and customize table columns
+You can now add, remove and reorder table columns across the Bucket app.
+Load more
+Our approach
+Product
+Resources
+Company
+Automated evaluations
+Feature evaluation
+Blog
+About us
+Follow on LinkedIn
+STARS Framework
+Pricing
+Documentation
+Careers
+Follow on X
+starsframework.org ↗
+Changelog
+Contact us
+Security
+© 2024 Bucket. All rights reserved.
+Privacy policy
+GDPR
+Terms of service

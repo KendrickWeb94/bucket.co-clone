@@ -1,0 +1,142 @@
+bucket_co text homepage -
+
+Product
+Approach
+Pricing
+Changelog
+Company
+Sign in
+Create account
+Actually helping product teams
+build better features
+Automatically stay on top of feature adoption, satisfaction, and
+impact to build B2B products that customers love.
+Get started for free
+See how it works
+Trusted by the top tech companies
+Backed by world-class product leaders
+Deployed doesn't mean 
+ Done...
+Even small R&D teams can cost $250,000 a month, and they’re flying blind. They need
+automated and actionable insights to make features that customers love.
+Bucket is the only dedicated feature evaluation platform.
+Learn how Bucket is different
+STARS Framework
+Turnkey feature baseline
+The STARS framework combines qualitative and
+quantitative data to give you a consistent feature
+evaluation baseline. And it’s built into Bucket.
+Discover our approach
+Adoption rate
+Retention rate
+Satisfation rate
+Medium
+Very high
+Satisfied
+Segment
+Tried
+Adopted
+Retained
+Satisfied
+Activated
+1-3 events
+5+ events
+within 1 week
+score 4-5
+“
+The great thing about STARS and Bucket is that it’s
+a super easy framework to adopt company-wide
+that will give us the ammunition to defend the
+position that focusing on the right features will
+move the needle.
+Nicolai Dahl, CPO
+”
+Powerful workflows 
+ for shipping
+valuable features
+Explore the product
+See why other product and engineering
+leaders 
+ Bucket
+“The way Bucket is enabling consistent
+and automated evaluation is a boon for
+modern product teams.”
+“Bucket is building an easy way
+to create feature ownership,
+shared language, and
+transparency in your product
+team.”
+Justin Gallagher
+Head of Product @ Trello
+Andreas Klinger
+CTO @ On Deck
+“Bucket enables our product
+teams to increase customer
+satisfaction and retention by
+acting faster on low feature
+engagement and customer
+dissatisfaction.”
+“Would recommend all product
+teams working in SaaS to use
+@bucketdotco to measure and
+iterate on their feature
+development!”
+“I can hire a new PM and just
+require that they track features
+with Bucket because I know
+they’ll understand it instantly.”
+Robert H.
+Product Owner @ Billetto
+Joshua Karjala
+CTO @ Founders
+Nicolai Dahl
+VP of Product @ Famly
+“Getting the relevant feature data
+to chase you, and not the other
+way around, is changing how we
+evaluate features, effortlessly.
+This is where Bucket gets it
+right.”
+“With Bucket’s feature evaluation,
+everyone on the product team optimizes
+for customer impact, consistently.”
+Paul Dariye
+Engineer @ Pleo
+Niels Tindbæk
+Head of Product @ Segment
+Secure and compliant with no PII required
+Bucket works without any Personal Identifiable
+Information (PII), so it’s easy to get started.
+You can be confident that your customers’ personal
+information stays personal with our secure
+infrastructure running on industry-standard systems
+and EU-based servers.
+Our commitment to security
+Track your latest release in
+minutes 
+Improve your productivity and delight
+customers quickly with Bucket’s Segment
+integration and our own SDK.
+Get started for free
+Our approach
+Product
+Resources
+Company
+Automated evaluations
+Feature evaluation
+Blog
+About us
+Follow on LinkedIn
+STARS Framework
+Pricing
+Documentation
+Careers
+Follow on X
+starsframework.org ↗
+Changelog
+Contact us
+Security
+© 2024 Bucket. All rights reserved.
+Privacy policy
+GDPR
+Terms of service
