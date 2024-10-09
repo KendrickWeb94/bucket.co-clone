@@ -1,8 +1,8 @@
 bucket_co text homepage -
 
 Product
-Approach
-Pricing
+Approach 
+Pricing 
 Changelog
 Company
 Sign in

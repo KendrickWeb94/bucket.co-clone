@@ -21,6 +21,8 @@ const config: Config = {
 			"secondarybg" : "#22232A",
 			"teal-primary" : "#38B2AC",
 			"blog-blue" : "#6C85ED",
+			"gray-dark" : "#6b7280",
+			"gray-light" : "#374151",
 			"linear-1" : "#4FC1A2 ",
 			"linear-2" : "#D9D1AC",
 			"linear-3" : "#F68D27",

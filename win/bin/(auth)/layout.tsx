@@ -3,11 +3,6 @@ import "@fontsource/inter";
 import "../globals.css";
 import { ThemeProvider } from "@/components/themes/theme-provider";
 import { ClerkProvider } from "@clerk/nextjs";
-import { Navbar } from "@/components/ui/navbar";
-import { Footer } from "@/components/ui/footer";
-import navLinks from "@/constants";
-
-
 
 export const metadata: Metadata = {
   title: "Bucket Co",
@@ -20,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    // <ClerkProvider>
+   
       <html lang="en" suppressHydrationWarning suppressContentEditableWarning>
         <ThemeProvider
           attribute="class"
@@ -28,17 +23,10 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <body className="inter-400 relative dark:bg-primarybg bg-white text-primarybg dark:text-white" suppressHydrationWarning>
-          <Navbar links={navLinks} />
-          <div className=" absolute z-0 m-6 dhidden top-0 right-0">
-            <div className=" bg-blog-blue  p-4 w-64 blur-[300px]  -rotate-45 translate-y-24 h-[100px] "></div>
-        </div>
-        
+          <body className="inter-400 dark:bg-primarybg bg-white text-primarybg dark:text-white">
             {children}
-            <Footer />
           </body>
         </ThemeProvider>
-      </html>
-    // </ClerkProvider>
+   </html>
   );
 }
